@@ -1,25 +1,79 @@
-{
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
+[
+	{
+		"id": 1,
+		"name": "Jankar Mahbub",
+		"sellarry": 500000,
+		"Age": 30,
+		"img": "../img/img_2842_0.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Bjarne stro",
+		"sellarry": 600000,
+		"Age": 30,
+		"img": "../img/Bjarne+Stroustrup.webp"
+	},
+	{
+		"id": 1,
+		"name": "Dennis Rit",
+		"sellarry": 300000,
+		"Age": 30,
+		"img": "../img/Dennis+Ritchie.webp"
+	},
+	{
+		"id": 1,
+		"name": "Donald Kuth",
+		"sellarry": 800000,
+		"Age": 30,
+		"img": "../img/Donald+Kuth.webp"
+	},
+	{
+		"id": 1,
+		"name": "Guido Van",
+		"sellarry": 200000,
+		"Age": 30,
+		"img": "../img/Guido+van+Rossum.webp"
+	},
+	{
+		"id": 1,
+		"name": "Linus tro",
+		"sellarry": 900000,
+		"Age": 30,
+		"img": "../img/Linus+Torvalds.webp"
+	},
+	{
+		"id": 1,
+		"name": "james Kut",
+		"sellarry": 100000,
+		"Age": 30,
+		"img": "../img/James+Gosling.webp"
+	},
+	{
+		"id": 1,
+		"name": "Tim Berners",
+		"sellarry": 500000,
+		"Age": 30,
+		"img": "../img/Tim-Berners-Lee-300x200.webp"
+	},
+	{
+		"id": 1,
+		"name": "Bisgest micro",
+		"sellarry": 500000,
+		"Age": 30,
+		"img": "../img/best_programmers.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Mark Zuckerberg",
+		"sellarry": 500000,
+		"Age": 30,
+		"img": "../img/mark-zuckerberg-headshot-11.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Anisul Islam",
+		"sellarry": 500000,
+		"Age": 30,
+		"img": "../img/28184926.jpg"
+	}
+]
