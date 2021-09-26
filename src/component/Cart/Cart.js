@@ -35,9 +35,8 @@ const name = (previous, cart)=> previous + cart.name;
         <div className="Cart">
 
             {
-                autor.map(auto =>
-                <Mans auto={auto}
-                handAddcard={handAddcard}></Mans>
+                autor.map(auto =>{}
+              
                     )
             }
              <h1>Person: {props.cart.length}  </h1>
