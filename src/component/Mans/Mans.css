@@ -43,3 +43,22 @@
     margin-left: 80px;
     
 }
+.star{color:rgb(255 0 105);
+    font-weight: bolder;
+    font-size: 20px;
+    width: 40%;
+    margin: auto;
+;}
+.icon i{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(170, 161, 26);
+    align-items: center;
+    margin-left: 80px;
+    
+
+}
+.icon i:hover{
+    background-color: tomato;
+    border-radius: 40px;
+}
