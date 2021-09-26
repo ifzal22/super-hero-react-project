@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Mans from '../Mans/Mans';
 import './Cart.css'
 const Cart = (props) => {
   
@@ -34,7 +35,9 @@ const name = (previous, cart)=> previous + cart.name;
         <div className="Cart">
 
             {
-                autor.map(auto => <p>{}</p>
+                autor.map(auto =>
+                <Mans auto={auto}
+                handAddcard={handAddcard}></Mans>
                     )
             }
              <h1>Person: {props.cart.length}  </h1>
