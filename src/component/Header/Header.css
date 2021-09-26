@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    font-weight: bolder;
+    margin: 10px;
+    font-weight: bolder;
+    margin-right: 300px;
+}
+.header h1{
+    text-transform: uppercase;
+    color: #4CAF50;
+    font-weight: 900;
+}
+.header p{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.pog{
+    text-shadow: 2px 2px 4px #000000;
+  color:linear-gradient(to left, #FF0000 0%, #000000 100%);
+  font-family: cursive;
+}

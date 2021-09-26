@@ -1,79 +1,135 @@
 [
 	{
+    "key": "B002RL8IYK",
+	"star": 5,
 		"id": 1,
 		"name": "Jankar Mahbub",
 		"sellarry": 500000,
 		"Age": 30,
-		"img": "../img/img_2842_0.jpg"
+		"img": "./img/img_2842_0.jpg",
+    "company": "KNOWLYSIS",
+    "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
+
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 1,
 		"id": 1,
 		"name": "Bjarne stro",
 		"sellarry": 600000,
 		"Age": 30,
-		"img": "../img/Bjarne+Stroustrup.webp"
+		"img": "./img/Bjarne+Stroustrup.webp",
+    "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 2,
 		"id": 1,
 		"name": "Dennis Rit",
 		"sellarry": 300000,
 		"Age": 30,
-		"img": "../img/Dennis+Ritchie.webp"
+		"img": "./img/Dennis+Ritchie.webp"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+	,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 5,
 		"id": 1,
 		"name": "Donald Kuth",
 		"sellarry": 800000,
 		"Age": 30,
-		"img": "../img/Donald+Kuth.webp"
+		"img": "./img/Donald+Kuth.webp"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+	,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 4,
 		"id": 1,
 		"name": "Guido Van",
 		"sellarry": 200000,
 		"Age": 30,
-		"img": "../img/Guido+van+Rossum.webp"
+		"img": "./img/Guido+van+Rossum.webp"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+	,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 4,
 		"id": 1,
 		"name": "Linus tro",
 		"sellarry": 900000,
 		"Age": 30,
-		"img": "../img/Linus+Torvalds.webp"
+		"img": "./img/Linus+Torvalds.webp"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 3,
 		"id": 1,
 		"name": "james Kut",
 		"sellarry": 100000,
 		"Age": 30,
-		"img": "../img/James+Gosling.webp"
+		"img": "./img/James+Gosling.webp"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 3,
 		"id": 1,
 		"name": "Tim Berners",
 		"sellarry": 500000,
 		"Age": 30,
-		"img": "../img/Tim-Berners-Lee-300x200.webp"
+		"img": "./img/Tim-Berners-Lee-300x200.webp"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 3,
 		"id": 1,
 		"name": "Bisgest micro",
 		"sellarry": 500000,
 		"Age": 30,
-		"img": "../img/best_programmers.jpg"
+		"img": "./img/best_programmers.jpg"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elitconsequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 3,
 		"id": 1,
 		"name": "Mark Zuckerberg",
 		"sellarry": 500000,
 		"Age": 30,
-		"img": "../img/mark-zuckerberg-headshot-11.jpg"
+		"img": "./img/mark-zuckerberg-headshot-11.jpg"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862"
+    ,"about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	},
 	{
+    "key": "B002RL8IYK",
+	"star": 3,
 		"id": 1,
 		"name": "Anisul Islam",
 		"sellarry": 500000,
 		"Age": 30,
-		"img": "../img/28184926.jpg"
+		"img": "./img/28184926.jpg"
+    , "company": "KNOWLYSIS"
+    , "address": "915 Waldane Court, Avalon, Federated States Of Micronesia, 1862",
+    "about": "Minim dolore nulla eu eu dolore et pariatur. Et exercitation culpa deserunt laboris magna amet sit. Minim amet nulla cillum mollit minim qui aliqua sit et id. Consequat amet aute commodo dolor irure et nulla veniam tempor aliqua nostrud. Elit consequat cillum voluptate magna ut ullamco. Laboris qui non duis do tempor eu esse eiusmod dolor excepteur.\r\n"
 	}
 ]

@@ -1,0 +1,45 @@
+.img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+
+  
+}
+.img{
+    margin: auto;
+ 
+    /* width: 100px; */
+    width: 60%;
+}
+  
+
+.man-document{
+    margin: 10px;
+    border: 1px solid #facbcb;
+   
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+}
+.man-document h1{
+    text-align: center;
+    font-weight: revert;
+}
+.about{
+    font-weight: bolder;
+}
+.BTN{
+    background-color: crimson;
+    color: whitesmoke;
+    width: 150px;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 150px;
+    font-weight: bolder;
+    border: 3px solid rgb(255, 12, 105);
+    margin-left: 80px;
+    
+}
