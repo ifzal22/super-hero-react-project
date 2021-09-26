@@ -6,6 +6,7 @@ import'./Pogrammer.css'
 const Pogrammer = () => {
     const [mans, setMans] = useState([]);
     const [cart , setCart] = useState([]);
+    const [autor, setAutor] = useState([]);
 
 
     useEffect( ()=>{
@@ -18,7 +19,9 @@ const Pogrammer = () => {
 
     const handAddcard = (man) => {
         const newCart = [...cart, man];
+        const nameAdd= [...autor,man]
         setCart(newCart);
+        setAutor(nameAdd)
 
     }
     return (
@@ -29,7 +32,7 @@ const Pogrammer = () => {
             <div className="man-container" >
             {
                mans.map(man =><Mans 
-                key={man.id}
+                key={man.key}
                man={man}
                handAddcard = {handAddcard}>
                    
@@ -42,9 +45,21 @@ const Pogrammer = () => {
             <div className="man-cart">
 <div >
     
-       <Cart
-       cart={cart}></Cart>    
+      
+       {
+           autor.map(auto=>{
+        <Cart 
+              
+               auto={auto}
+            handAddcard = {handAddcard}></Cart>
+           } )
+       }  
+
+
 </div>
+ <Cart
+       cart={cart}></Cart> 
+
             </div>
           
         </div>

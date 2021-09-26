@@ -6,7 +6,7 @@ import {  faShoppingCart,  } from '@fortawesome/free-solid-svg-icons'
 import Rating from 'react-rating';
 
 const Mans = (props) => {
-    console.log(props.man)
+  
     const {name,Age,img, sellarry,company,about,star} = props.man
     const element = <FontAwesomeIcon icon={ faShoppingCart} />
    
@@ -14,7 +14,7 @@ const Mans = (props) => {
 
    
   
-    console.log(sellarry,name)
+ 
     return (
         <div className="man-document">
 
@@ -36,23 +36,12 @@ const Mans = (props) => {
 
             <h5>Company:  {company}</h5> 
 
-
             <p><span className="about"> About:  </span> {about}</p>
-            <FontAwesomeIcon icon={["far", "coffee"]} />
-   
- 
+  
 <button onClick={()=>props.handAddcard(props.man)} className="BTN"> {element} add card</button>
-   
 
-<div className="icon">
-<i class="fab fa-facebook-square"></i>
-<i class="fab fa-youtube"></i>
-</div>
   </div>
-
-
-
-        
+      
     );
 };
 

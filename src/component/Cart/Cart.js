@@ -3,46 +3,33 @@ import Mans from '../Mans/Mans';
 import './Cart.css'
 const Cart = (props) => {
   
+console.log(props)
 
-
-const [autor, setAutor] = useState([]);
-useEffect(()=>{
-    fetch('./manifest.json')
-    .then(res => res.json())
-    .then(data => setAutor(data))
-},[])
-
-
-const  handAddcard = (auto) =>{
-    const newName = [...autor, auto];
-    setAutor(newName);
-}
 
     
     const {cart} = props;
-    console.log(cart)
+    
     const totalReduce = (previous, cart)=> previous + cart.sellarry;  
-const name = (previous, cart)=> previous + cart.name;
+
 
   let total = cart.reduce(totalReduce, 0);
 
-  let NAME = cart.reduce(name, 0)
- console.log(NAME)
+
  
-  
+  const displayNameUi = props.cart.map(name => <p>
+    
+      <div><img className="b-img" src={name.img} alt="" /></div>  {name.name}  </p>  )
+
+
+
   
     return (
         <div className="Cart">
 
-            {
-                autor.map(auto =>{}
-              
-                    )
-            }
+     
              <h1>Person: {props.cart.length}  </h1>
-             <p>Name: {
-                    <p>{NAME} </p>
-                      } </p>
+            
+                     Name: <ul>{displayNameUi} </ul>
        
             <h3>Selary: {total} </h3>
        
